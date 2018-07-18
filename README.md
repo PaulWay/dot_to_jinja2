@@ -1,7 +1,7 @@
 # doT to Jinja2 template conversion
 
-This code converts a [https://github.com/olado/doT](doT) template into
-[http://jinja.pocoo.org/](Jinja2) format.  This can be done as a once-off
+This code converts a [doT](https://github.com/olado/doT) template into
+[Jinja2](http://jinja.pocoo.org/) format.  This can be done as a once-off
 conversion if you're changing templating technologies, or on the fly if
 you're trying for compatibility.
 
@@ -10,7 +10,7 @@ you're trying for compatibility.
 There are two main problems with doT:
 
 1. It's mainly written in Javascript.  There is a
-   [https://github.com/lucemia/doT](Python) code repository that does the same
+   [Python](https://github.com/lucemia/doT) code repository that does the same
    basic doT interpretation and should produce the same output, but it does
    not have broad cross-language support.
 
